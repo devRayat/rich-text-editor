@@ -1,0 +1,11 @@
+node_modules
+
+# src
+
+# production
+/dist
+/js
+
+# tsconfig.json
+# .prettierrc
+.env
